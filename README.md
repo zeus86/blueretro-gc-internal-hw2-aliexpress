@@ -9,7 +9,7 @@ some images from the controller with as much components removed as feasible
 ## ./doc
 content of the usb-stick, that came with the adapter (minus installation videos and the windows-app, because they are >100MB). However, I've included a [filelist](doc/filelist) with sha256sums for reference
 
-the original pdf-manual-file is unfortunately ~187MB in size. a [scaled down version](doc/NGC_iBlueControlMod_Manual.pdf) is provided instead.
+the original pdf-manual-file is unfortunately ~187MB in size. a [scaled down version](doc/NGC_iBlueControlMod_Manual_scaled.pdf) is provided instead.
 
 sha256sum: c9dbf2783e6adb7fca1d25daa21073453ba157ae2ce6b2ac6854793e7a6af279  NGC iBlueControlMod Manual.pdf
 
