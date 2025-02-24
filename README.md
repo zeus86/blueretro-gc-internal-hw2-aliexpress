@@ -7,7 +7,7 @@ These are some photos from the so called "iBlueControlMod" adapter for the gamec
 some images from the controller with as much components removed as feasible
 
 ## ./doc
-content of the usb-stick, that came with the adapter (minus installation videos and the windows-app, because they are >100MB). However, I've included a [filelist](doc/filelist) with sha256sums for reference
+content of the usb-stick, that came with the adapter (minus installation videos and the windows-app, because they are >100MB). However, I've included a [filelist](doc/windows-app_filelist.txt) with sha256sums from the app for reference.  
 
 the original pdf-manual-file is unfortunately ~187MB in size. a [scaled down version](doc/NGC_iBlueControlMod_Manual_scaled.pdf) is provided instead.
 
