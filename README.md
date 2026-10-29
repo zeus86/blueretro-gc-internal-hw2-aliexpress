@@ -17,6 +17,8 @@ the original pdf-manual-file is unfortunately ~187MB in size. a [scaled down ver
 
 I dumped the original firmware for analasis including dumping-instructions.
 
+Also take a look onto #2 and #3 . 2 People idependently reverse-engineered the Firmware with LLMs to find out the difference to the original BlueRetro-Firmware and built a working version of the current vanilla release based on v25.10 for this board. Thanks to @dclstn and @konsolenschatz for the effort. Use on your own risk, I haven't tested them by myself, but the code looks solid. 
+
 ## License
 
 CC-BY-4.0
